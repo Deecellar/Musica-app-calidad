@@ -25,12 +25,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Behavior" />
-      <Folder Include="Integration" />
-      <Folder Include="Unit" />
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\MusicApp.Common\MusicApp.Common.csproj" />
       <ProjectReference Include="..\MusicApp.UI\MusicApp.UI.csproj" />
       <ProjectReference Include="..\MusicApp.WebApi\MusicApp.WebApi.csproj" />
